@@ -13,6 +13,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### Most Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshkim1013)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@sshkim1013/posts)](https://velog.io/@sshkim1013/posts)
