@@ -1,5 +1,4 @@
 # KIM SU HWAN 😉
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsshkim1013&count_bg=%2373D7DC&title_bg=%2337C3DC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)]
 
 ![sshkim1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshkim1013&show_icons=true&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2577)](https://solved.ac/sh2577/)
