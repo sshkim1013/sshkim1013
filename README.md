@@ -2,7 +2,7 @@
 
 ![sshkim1013's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshkim1013&show_icons=true&theme=tokyonight) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2577)](https://solved.ac/sh2577/)
-# 💪Skills
+# 💪 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
