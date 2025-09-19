@@ -1,5 +1,5 @@
 # KIM SU HWAN 😉
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshkim1013&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2577)](https://solved.ac/sh2577/)
 # 💪 Skills
 ### Platforms & Languages
@@ -15,9 +15,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshkim1013)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tools
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
