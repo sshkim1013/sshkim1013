@@ -1,6 +1,6 @@
 # KIM SU HWAN 😉
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sshkim1013&show_icons=true&theme=tokyonight)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2577)](https://solved.ac/sh2577/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sh2577)](https://solved.ac/sh2577)
 # 💪 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
